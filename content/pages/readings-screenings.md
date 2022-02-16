@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Readings & Screenings
 uid: 1d059057-f920-fd30-4a6f-3412f2b3de4c
 ---
