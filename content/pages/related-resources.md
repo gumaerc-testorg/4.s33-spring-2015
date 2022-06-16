@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides citations and links to related resources for the
+  course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
@@ -51,7 +53,7 @@ Christensen, Clayton. [Disruptive Innovation](http://www.claytonchristensen.com/
 Academic Apparatus: MIT
 -----------------------
 
-Invisible Committee. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[F\*ck Off, Google. (PDF - 1.4MB)](https://events.ccc.de/congress/2014/Fahrplan/system/attachments/2530/original/fuckoffgoogleeng.pdf)
+Invisible Committee. [F\*ck Off, Google. (PDF - 1.4MB)](https://events.ccc.de/congress/2014/Fahrplan/system/attachments/2530/original/fuckoffgoogleeng.pdf)
 
 Academic Apparatus
 ------------------

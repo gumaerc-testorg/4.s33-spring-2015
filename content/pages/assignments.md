@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section contains details about course assignments, including weekly
+  readings and screenings, weekly writing and presentation assignments, the midterm
+  presentation, and the final project.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

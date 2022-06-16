@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This section provides the schedule of readings and screenings by lecture
+  session and topic. '
 learning_resource_types: []
 ocw_type: CourseSection
 title: Readings & Screenings
@@ -257,7 +259,7 @@ Crary, Jonathan. _24/7: Late Capitalism and the Ends of Sleep_. Verso, 2014. ISB
 14
 {{< tdclose >}}
 {{< tdopen >}}
-Moten, Fred, and Stefano Harney. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The University and The Undercommons." (PDF)](https://ou.edu/content/dam/Education/documents/the%20university%20and%20the%20undercommons.pdf) _Social Text_ 22, no. 2 (2004).
+Moten, Fred, and Stefano Harney. ["The University and The Undercommons." (PDF)](https://ou.edu/content/dam/Education/documents/the%20university%20and%20the%20undercommons.pdf) _Social Text_ 22, no. 2 (2004).
 {{< tdclose >}}
 
 {{< trclose >}}
