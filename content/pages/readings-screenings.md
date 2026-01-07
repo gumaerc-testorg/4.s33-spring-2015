@@ -51,13 +51,13 @@ No readings assigned.
 
 Poe, Edgar Allan. _The Man of the Crowd_. CreateSpace Independent Publishing Platform, 2015. ISBN: 9781516834655.
 
-Watts, Alan. "The Paradox of Self Denial." In _Become What You Are_. Shambhala Publications, Inc. 2003. ISBN: 9781570629402. \[Preview with {{% resource_link "dc8ceeb1-5ba8-49bf-a205-5813171bc08f" "Google Books" %}}\]
+Watts, Alan. "The Paradox of Self Denial." In _Become What You Are_. Shambhala Publications, Inc. 2003. ISBN: 9781570629402. \[Preview with [Google Books](http://books.google.com/books?id=iB4HBAAAQBAJ&pg=PA1=onepage)\]
 
-Ovid, Metamorphoses: {{% resource_link "308544f6-3a5e-47f6-9894-c92e0bd38b7b" "Echo and Narcissus" %}}, 1 A. C. E..
+Ovid, Metamorphoses: [Echo and Narcissus](http://anthony.sogang.ac.kr/Classics/OvidEchoNarcissus.htm), 1 A. C. E..
 
 ### Screening
 
-{{% resource_link "d9e1825b-9f25-4ff7-9683-a8484322a2de" "_Dark Mirror, Fifteen Million Merits_" %}}. Directed by Euros Lyn. Color, 62 min. 2011. \[Series 1, Episode 2\]
+[_Dark Mirror, Fifteen Million Merits_](http://www.imdb.com/title/tt2089049/). Directed by Euros Lyn. Color, 62 min. 2011. \[Series 1, Episode 2\]
 
 
 {{< tdclose >}}
@@ -76,9 +76,9 @@ Ovid, Metamorphoses: {{% resource_link "308544f6-3a5e-47f6-9894-c92e0bd38b7b" "E
 {{< tdopen >}}
 
 
-De Certeau, Michel, Fredric Jameson, et al. "{{% resource_link "4adb22d1-9437-426a-8e98-ef42d7614fa9" "On the Oppositional Practices of Everyday Life" %}}." _Social Text_, no. 3 (1980): 3–43.
+De Certeau, Michel, Fredric Jameson, et al. "[On the Oppositional Practices of Everyday Life](http://www.jstor.org/stable/466341)." _Social Text_, no. 3 (1980): 3–43.
 
-Bourdieu, Pierre. _Outline of a Theory of Practice_. Cambridge University Press, 1977. \[Preview with {{% resource_link "7460c1a5-2f47-4bc6-872a-37927a0c1882" "Google Books" %}}\]
+Bourdieu, Pierre. _Outline of a Theory of Practice_. Cambridge University Press, 1977. \[Preview with [Google Books](http://books.google.com/books?id=Hbw2AAAAQBAJ&pg=PAfrontcover)\]
 
 
 {{< tdclose >}}
@@ -91,7 +91,7 @@ Bourdieu, Pierre. _Outline of a Theory of Practice_. Cambridge University Press,
 {{< tdopen >}}
 
 
-Seminar on {{% resource_link "abee56af-c9e2-4726-b3c9-26194b0899e4" "On Kawara" %}}.
+Seminar on [On Kawara](https://en.wikipedia.org/wiki/On_Kawara).
 
 Presentations / Workshop of 'Practice' Concept and Media.
 
@@ -129,7 +129,7 @@ Krishnamurti, J. _As One Is: To Free the Mind from All Conditioning_. Hohm Press
 
 ### Screening
 
-{{% resource_link "d336185c-dc3b-41e2-aa34-bdec5a5b8661" "_The Boss of It All_" %}}. Directed by Lars von Trier. Color, 99 min. 2006.
+[_The Boss of It All_](http://www.imdb.com/title/tt0469754/). Directed by Lars von Trier. Color, 99 min. 2006.
 
 
 {{< tdclose >}}
@@ -144,7 +144,7 @@ Krishnamurti, J. _As One Is: To Free the Mind from All Conditioning_. Hohm Press
 
 Burnham, James. _The Managerial Revolution: What Is Happening in the World_. The John Day Company, 1941.
 
-Boltanski, Luc. _On Critique: A Sociology of Emancipation_. Polity Press, 2011. ISBN: 9780745649641. \[Preview with {{% resource_link "1234434b-fbce-42fd-8b12-e6c411718b0e" "Google Books" %}}\]
+Boltanski, Luc. _On Critique: A Sociology of Emancipation_. Polity Press, 2011. ISBN: 9780745649641. \[Preview with [Google Books](http://books.google.com/books?id=9ly0uv7IHJoC&pg=PAfrontcover)\]
 
 
 {{< tdclose >}}
@@ -159,7 +159,7 @@ Boltanski, Luc. _On Critique: A Sociology of Emancipation_. Polity Press, 2011. 
 
 ### Screening
 
-{{% resource_link "19dd5e46-d190-44d0-84b7-fd29059535b7" "_Interview_" %}}. Directed by Harun Farocki. Color, 59 min. 1996.
+[_Interview_](http://www.imdb.com/title/tt0176538/). Directed by Harun Farocki. Color, 59 min. 1996.
 
 
 {{< tdclose >}}
@@ -174,7 +174,7 @@ Boltanski, Luc. _On Critique: A Sociology of Emancipation_. Polity Press, 2011. 
 
 Foucault, Michel. "Governmentality." In _Foucault Effect: Studies in Governmentality_. Translated by Rosi Braidotti. University of Chicago Press, 1991. ISBN: 9780226080444.
 
-Deleuze, Gilles. "{{% resource_link "505c3d2c-a228-4262-9e69-6b4fb21bf9f9" "Postscript on the Societies of Control" %}}." _October_ 59 (1992): 3–7.
+Deleuze, Gilles. "[Postscript on the Societies of Control](http://www.jstor.org/stable/778828)." _October_ 59 (1992): 3–7.
 
 
 {{< tdclose >}}
@@ -202,9 +202,9 @@ No new readings assigned.
 {{< tdopen >}}
 
 
-Chiapello, Eve. "{{% resource_link "b2ec584a-8a6f-4f5f-a4b4-54bcecdb9968" "Evolution and Co-optation" %}}." _Third Text_ 18, no. 6 (2004): 585–94.
+Chiapello, Eve. "[Evolution and Co-optation](http://dx.doi.org/10.1080/0952882042000284998)." _Third Text_ 18, no. 6 (2004): 585–94.
 
-Williams, Alex, and Nick Srnicek. "{{% resource_link "6498ba4d-c0d6-4860-a8c3-c902d251284f" "#Accelerate Manifesto for an Accelerationist Politics" %}}." _Creative Legal Thinking_, May 2013.
+Williams, Alex, and Nick Srnicek. "[#Accelerate Manifesto for an Accelerationist Politics](http://criticallegalthinking.com/2013/05/14/accelerate-manifesto-for-an-accelerationist-politics/)." _Creative Legal Thinking_, May 2013.
 
 
 {{< tdclose >}}
@@ -223,7 +223,7 @@ Williams, Alex, and Nick Srnicek. "{{% resource_link "6498ba4d-c0d6-4860-a8c3-c9
 {{< tdopen >}}
 
 
-Preciado, Beatriz. "{{% resource_link "1e39da05-a552-4993-a5ea-5593082ce444" "Test Junkie: Sex, Drugs, and Biopolitics" %}}." _e-flux_, 2013.
+Preciado, Beatriz. "[Test Junkie: Sex, Drugs, and Biopolitics](http://www.e-flux.com/journal/testo-junkie-sex-drugs-and-biopolitics/)." _e-flux_, 2013.
 
 Bailey, Derek. _Improvisation: Its Nature And Practice In Music_. Da Capo Press, 1993. ISBN: 9780306805288.
 
@@ -259,7 +259,7 @@ Crary, Jonathan. _24/7: Late Capitalism and the Ends of Sleep_. Verso, 2014. ISB
 14
 {{< tdclose >}}
 {{< tdopen >}}
-Moten, Fred, and Stefano Harney. {{% resource_link "2addad68-7b96-405a-9b1a-b47377c3b3ae" "\"The University and The Undercommons.\" (PDF)" %}} _Social Text_ 22, no. 2 (2004).
+Moten, Fred, and Stefano Harney. ["The University and The Undercommons." (PDF)](https://ou.edu/content/dam/Education/documents/the%20university%20and%20the%20undercommons.pdf) _Social Text_ 22, no. 2 (2004).
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -270,9 +270,9 @@ Moten, Fred, and Stefano Harney. {{% resource_link "2addad68-7b96-405a-9b1a-b47
 {{< tdopen >}}
 
 
-Wisnioski, Matthew. "{{% resource_link "278d666e-cb43-43c5-80ce-609f89e79324" "Why MIT Institutionalized the Avant-garde: Negotiating Aesthetic Virtue in the Postwar Defense Institute" %}}." _Configurations_ 21, no. 1 (2013): 85–116. \[The Johns Hopkins University Press\]
+Wisnioski, Matthew. "[Why MIT Institutionalized the Avant-garde: Negotiating Aesthetic Virtue in the Postwar Defense Institute](http://dx.doi.org/10.1353/con.2013.0006)." _Configurations_ 21, no. 1 (2013): 85–116. \[The Johns Hopkins University Press\]
 
-Tiqqun. "{{% resource_link "299f1b8a-db66-463a-b702-dfca2251aedf" "The Cybernetic Hypothesis" %}}." _The Anarchist Library_ (2001).
+Tiqqun. "[The Cybernetic Hypothesis](http://theanarchistlibrary.org/library/tiqqun-the-cybernetic-hypothesis)." _The Anarchist Library_ (2001).
 
 
 {{< tdclose >}}
@@ -289,7 +289,7 @@ Tiqqun. "{{% resource_link "299f1b8a-db66-463a-b702-dfca2251aedf" "The Cyberneti
 16
 {{< tdclose >}}
 {{< tdopen >}}
-_Guest_: Manuel Cirauqui, Assistant Curator at {{% resource_link "09916f57-6f1e-450e-8901-bec02b58d07a" "Dia Art Foundation" %}}.
+_Guest_: Manuel Cirauqui, Assistant Curator at [Dia Art Foundation](http://www.diaart.org/).
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -308,9 +308,9 @@ Dewey, John. _Experience and Education_. Macmillan, 1938.
 
 Ruiz, Raul. "Mystery and Ministry." Chapter 6 in _Poetics of Cinema_. Dis Voir, 1995. ISBN: 9782906571389.
 
-Deleuze, Gilles. "Tenth Series of the Ideal Game." In _The Logic of Sense_. Columbia University Press, 1990. ISBN: 9780231059824. \[Preview with {{% resource_link "c611f2b1-9a05-4f46-aaae-d8a1f193724e" "Google Books" %}}\]
+Deleuze, Gilles. "Tenth Series of the Ideal Game." In _The Logic of Sense_. Columbia University Press, 1990. ISBN: 9780231059824. \[Preview with [Google Books](http://books.google.com/books?id=TQr8OQyfzRIC&pg=PA58#v=onepage)\]
 
- {{% resource_link "b54ae91a-73fe-4b2f-87b5-95984c626010" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Broodthaers, Marcel. "A Conversation with Freddy de Vree." In _Institutional Critique: An Anthology of Artists' Writings_. MIT Press, 1969. ISBN: 9780262516648.
+ [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262516648) Broodthaers, Marcel. "A Conversation with Freddy de Vree." In _Institutional Critique: An Anthology of Artists' Writings_. MIT Press, 1969. ISBN: 9780262516648.
 
 
 {{< tdclose >}}
@@ -377,9 +377,9 @@ Critique
 {{< tdopen >}}
 
 
-Malik, Suhail. "{{% resource_link "2ab3a07e-c08a-4078-babd-483b02fb8474" "On the Necessity of Art's Exit from Contemporary Art" %}}." Urbanomic, 2014.
+Malik, Suhail. "[On the Necessity of Art's Exit from Contemporary Art](https://artistsspace.org/programs/on-the-necessity-of-arts-exit-from-contemporary-art)." Urbanomic, 2014.
 
-Singleton, Benedict. "{{% resource_link "08d4bae0-38a4-4768-9fba-a99eb63383c5" "Maximum Jailbreak" %}}." _e-flux_, 2013.
+Singleton, Benedict. "[Maximum Jailbreak](http://www.e-flux.com/journal/maximum-jailbreak/)." _e-flux_, 2013.
 
 
 {{< tdclose >}}
