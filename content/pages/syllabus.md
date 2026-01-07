@@ -251,7 +251,7 @@ Academic Apparatus: MIT (cont.)
 
 Academic Apparatus: Classroom
 
-_Guest_: Manuel Cirauqui, Assistant Curator at {{% resource_link "09916f57-6f1e-450e-8901-bec02b58d07a" "Dia Art Foundation" %}}
+_Guest_: Manuel Cirauqui, Assistant Curator at [Dia Art Foundation](http://www.diaart.org/)
 
 
 {{< tdclose >}}
